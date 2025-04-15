@@ -10,7 +10,7 @@ const Banner4 = () => {
           </h1>
           <h2 className="text-xl sm:text-2xl mb-6 font-light">
             It is literally true that you can succeed best and quickest by
-            helping others to succeed.
+            helping others to succeed.here
           </h2>
           <p className="text-base text-gray-200 mb-8">
             Adipiscing euismod sit bibendum ultrices pede letius eros ac
