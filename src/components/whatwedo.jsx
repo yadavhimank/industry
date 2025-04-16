@@ -23,7 +23,7 @@ const Whatwedo = () => {
           <p className="text-center mt-2 px-3">
             Lorem ipsum dolor sit amet consectetur adipiscing elit dolor
           </p>
-          <div className="text-center py-3">
+          <div className="text-center py-5">
             <button className=" text-black border text-center hover:text-yellow-400 hover:border-yellow-400 transition duration-300 px-4 py-2">
               Learn More
             </button>
@@ -37,7 +37,7 @@ const Whatwedo = () => {
           <p className="text-center mt-2 px-3">
             Lorem ipsum dolor sit amet consectetur adipiscing elit dolor
           </p>
-          <div className="text-center py-3">
+          <div className="text-center py-5">
             <button className=" text-black border text-center hover:text-yellow-400 hover:border-yellow-400 transition duration-300 px-4 py-2">
               Learn More
             </button>
@@ -51,7 +51,7 @@ const Whatwedo = () => {
           <p className="text-center mt-2 px-3">
             Lorem ipsum dolor sit amet consectetur adipiscing elit dolor
           </p>
-          <div className="text-center py-3">
+          <div className="text-center py-5">
             <button className=" text-black border text-center hover:text-yellow-400 hover:border-yellow-400 transition duration-300 px-4 py-2">
               Learn More
             </button>
@@ -65,7 +65,7 @@ const Whatwedo = () => {
           <p className="text-center mt-2 px-3">
             Lorem ipsum dolor sit amet consectetur adipiscing elit dolor
           </p>
-          <div className="text-center py-3">
+          <div className="text-center py-5">
             <button className=" text-black border text-center hover:text-yellow-400 hover:border-yellow-400 transition duration-300 px-4 py-2">
               Learn More
             </button>
@@ -79,7 +79,7 @@ const Whatwedo = () => {
           <p className="text-center mt-2 px-3">
             Lorem ipsum dolor sit amet consectetur adipiscing elit dolor
           </p>
-          <div className="text-center py-3">
+          <div className="text-center py-5">
             <button className=" text-black border text-center hover:text-yellow-400 hover:border-yellow-400 transition duration-300 px-4 py-2">
               Learn More
             </button>

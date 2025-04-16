@@ -4,7 +4,7 @@ import { Input } from "@/components/ui/input";
 const Footer = () => {
   return (
     <>
-      <div className="bg-[#1f2a30]  px-5 md:px-20 md:py-14">
+      <div className="bg-[#1f2a30]  p-5 md:px-20 md:py-14">
         <div className="flex flex-col gap-10 md:flex-row justify-between mt-0 md:mt-10">
           <div className="text-white ">
             <h1 className="font-bold text-xl">Company </h1>

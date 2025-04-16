@@ -25,7 +25,6 @@ const Banner2 = () => {
           <img src="/logo-6.png"></img>
           <img src="/logo-7.png"></img>
           <img src="/logo-8.png"></img>
-          <img src="/logo-9.png" className="hidden md:block"></img>
         </div>
       </div>
     </>
