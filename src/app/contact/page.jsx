@@ -8,7 +8,7 @@ const Page = () => {
         <div className="absolute inset-0 bg-black bg-opacity-50"></div>
         <div className="relative z-10">
           <h1 className="text-white text-3xl md:text-7xl font-bold">
-            Let's Build Relationship
+            Let&apos;s Build Relationship
           </h1>
           <p className="text-white md:text-xl">
             Start the conversation to established good relationship and business

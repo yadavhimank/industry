@@ -8,7 +8,7 @@ const Banner5 = () => {
 
         <div className="relative z-10 px-6 md:px-20 py-24 md:py-28 max-w-4xl">
           <h1 className="text-white text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold leading-tight drop-shadow-lg">
-            Let's start your <br className="hidden md:block" />
+            Let&apos;s start your <br className="hidden md:block" />
             project to be <br className="hidden md:block" />
             realize.
           </h1>
